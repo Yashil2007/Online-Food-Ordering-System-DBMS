@@ -27,7 +27,7 @@ Online Food Ordering System is a DBMS project developed to manage customers, res
 ## Documentation
 
 📄 Project Report:
-[Online Food Ordering System.pdf]
+[Online Food Ordering System.pdf](Online Food Ordering System.pdf)
 
 ## Technologies Used
 - SQL
